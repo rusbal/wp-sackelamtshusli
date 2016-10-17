@@ -11,8 +11,7 @@
 <head>
   <title>Langwiesen Eigentumswohnung kaufen | 4,5 Zimmer-Eigentumswohnungen kaufen am Rhein</title>
 
-  <?php include "header.meta.html"; ?>
-  <meta name="description" content="Langwiesen direkt am Rhein in der Gemeinde Feuerthalen im Kanton Zürich - 5 min von Schaffhausen bietet mit einer Eigentumswohnung hohe Lebensqualität am Rhein"/>
+  <?php include "header.meta.php"; ?>
   <?php include "html5shiv.html"; ?>
   <?php include "link.icons.html"; ?>
 
