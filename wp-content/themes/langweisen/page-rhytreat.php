@@ -2,15 +2,15 @@
 <html lang="de">
 <head>
 <!--    <title>--><?php //bloginfo('name'); ?><!-- | --><?php //is_front_page() ? bloginfo('description') : wp_title('|', true, 'right'); ?><!--</title>-->
-    <title>Langwiesen, Feuerthalen, Kanton Zürich: Wohneigentum direkt am Rhein in Stadtnähe vonSchaffhausen: Rhytreat. Lebensqualität und Panorama an privilegierter Lage</title>
+<title>Haus kaufen in Schaffhausen auf der Breite: Wohneigentum mit Panorama und Privatsphäre in der Breite von Schaffhausen: Wohnpark Säckelamtshüsli an privilegierter Lage</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Leben wie im Paradies in Langwiesen ZH: Rhytreat am Rhein." />
+    <meta name="description" content="Wohneigentum mit Panorama in der Breite von Schaffhausen kaufen: Säckelamtshüsli" />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes,maximum-scale=2"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
-    <meta name="keywords" content="immobilien, eigentumswohnung, eigentumswohnungen, haus kaufen, feuerthalen, schaffhausen, flurlingen, uhwiesen, dachsen, paradies, diessenhofen, wohnen am rhein, wohnung kaufen, leben am rhein, immobilienangebote, wohnungen, wohnimmobilien" />
+    <meta name="keywords" content="schaffhausen haus kaufen, eigentumswohnung, kaufen, schaffhausen, flurlingen, uhwiesen, dachsen, wohnung kaufen, atriumhaus, immobilienangebote, wohnungen, wohnimmobilien" />
     <meta name="revisit-after" content="7 days"/>
-    <meta name="author" content="Rhytreat Langwiesen Feuerthalen c/o Maker GmbH, Neuhausen am Rheinfall" />
+    <meta name="author" content="Wohnpark Säckelamtshüsli c/o Maker GmbH, Neuhausen am Rheinfall" />
     <meta name="publisher" content="Maker GmbH, Neuhausen am Rheinfall" />
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>

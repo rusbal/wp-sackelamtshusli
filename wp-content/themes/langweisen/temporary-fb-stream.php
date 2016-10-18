@@ -5,25 +5,25 @@
 ?><!doctype html>
 <html>
 <head>
-  <title>Langwiesen Eigentumswohnung kaufen | 4,5 Zimmer-Eigentumswohnungen kaufen am Rhein</title>
+  <title>Schaffhausen Einfamilienhaus kaufen | 5,5 Zimmer Einfamilienhaus auf der Breite mit Panorama</title>
 
   
 <!-- This site is optimized with the Yoast SEO plugin v3.5 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="4,5 Zimmer-Eigentumswohnung direkt am Rhein in Langwiesen, Gemeinde Feuerthalen, Kanton Zürich bei Schaffhausen kaufen"/>
+<meta name="description" content="5,5 Zimmer-Einfamilienhaus auf der Breite in Schaffhausen kaufen"/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="http://www.langwiesen.ch/stream" />
-<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://www.top-of-schaffhausen.ch" />
+<meta property="og:locale" content="de_DE" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Stream - Langwiesen Eigentumswohnung kaufen" />
-<meta property="og:description" content="4,5 Zimmer-Eigentumswohnung direkt am Rhein in Langwiesen, Gemeinde Feuerthalen, Kanton Zürich bei Schaffhausen kaufen" />
-<meta property="og:url" content="http://www.langwiesen.ch/stream" />
-<meta property="og:site_name" content="Langwiesen Eigentumswohnung kaufen" />
-<meta property="article:publisher" content="http://www.fb.me/Feuerthalen" />
-<meta property="og:image" content="https://www.facebook.com/langwiesen/photos/a.1000406080020471.1073741825.993457837381962/1000406153353797/?type=3&#038;source=11" />
+<meta property="og:title" content="Säckelamtshüsli - Schaffhausen auf der Breite Wohneigentum mit Panorama kaufen" />
+<meta property="og:description" content="5,5 Zimmer-Einfamilienhaus auf der Breite kaufen" />
+<meta property="og:url" content="www.top-of-schaffhausen.ch" />
+<meta property="og:site_name" content="Schaffhausen Eigentumswohnung kaufen" />
+<meta property="article:publisher" content="https://www.facebook.com/Säckelamtshüsli-199010777180944" />
+<meta property="og:image" content="https://www.facebook.com/Säckelamtshüsli-199010777180944" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="4,5 Zimmer-Eigentumswohnung direkt am Rhein in Langwiesen, Gemeinde Feuerthalen, Kanton Zürich bei Schaffhausen kaufen" />
-<meta name="twitter:title" content="Stream - Langwiesen Eigentumswohnung kaufen" />
-<meta name="twitter:image" content="https://www.facebook.com/langwiesen/photos/a.1000406080020471.1073741825.993457837381962/1000406153353797/?type=3&#038;source=11" />
+<meta name="twitter:description" content="5,5 Zimmer-Einfamilienhaus auf der Breite in Schaffhausen kaufen" />
+<meta name="twitter:title" content="Säckelamtshüsli Schaffhausen - Eigentumswohnung kaufen" />
+<meta name="twitter:image" content="https://www.facebook.com/Säckelamtshüsli-199010777180944" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//s.w.org' />

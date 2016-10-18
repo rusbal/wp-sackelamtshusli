@@ -6,7 +6,7 @@
 ?><!doctype html>
 <html>
 <head>
-  <title>Langwiesen Eigentumswohnung kaufen | 4,5 Zimmer-Eigentumswohnungen kaufen am Rhein</title>
+  <title>Schaffhausen Einfamilienhaus kaufen auf der Breite | 5,5 Zimmer-Einfamilienhaus kaufen auf der Breite</title>
 
   <?php wp_head(); ?>
 
@@ -46,5 +46,5 @@
 <body> 
 <div class="content-fb-stream">
     <div id="banner">
-       <a href="/rhein"><img src="/wp-content/uploads/2016/01/eigentumswohnungen_Lario_am_rhein_banner_1024x280_V6.jpg"></a>
+       <a href="/rhein"><img src="wp-content/uploads/2016/01/saeckelamtshuesli_panorama-768x174.jpg"></a>
     </div>

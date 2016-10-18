@@ -65,9 +65,9 @@
 <body>
 <div id="banner">
 <!--
-    <a href="/rhein"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/eigentumswohnungen_am_rhein_banner_1024x280.jpg"></a>
+    <a href="/rhein"><img src="<?php bloginfo('stylesheet_directory'); ?>/wp-content/uploads/2016/01/saeckelamtshuesli_panorama-768x174.jpg"></a>
 -->
-   <a href="/rhein"><img src="/wp-content/uploads/2016/05/eigentumswohnungen_Lario_am_rhein_banner_1024x280_V5.jpg"></a>
+   <a href="/rhein"><img src="/wp-content/uploads/2016/01/saeckelamtshuesli_panorama-768x174.jpg"></a>
 </div>
 <!-- iframe -->
 
