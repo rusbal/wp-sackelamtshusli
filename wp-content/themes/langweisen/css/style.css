@@ -284,7 +284,6 @@ strong {
 
 #logo a {
 	display: block;
-	width: 175px;
 	/*height: 137px;*/
 	height: 175px;
 	text-indent: -9999px;
@@ -2364,7 +2363,6 @@ form p.zweispalten, form div.zweispalten {
 	}
 	
 	#logo a {
-		width: 224.36px;
 		/* height: 84px; */
 		height: 107px;
 	}

@@ -13,7 +13,6 @@
 
   <?php include "header.meta.php"; ?>
   <?php include "html5shiv.html"; ?>
-  <?php include "link.icons.html"; ?>
 
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/index.css">
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/facebook-homepage.css">

@@ -7,7 +7,6 @@
 
   <?php include "header.meta.php"; ?>
   <?php include "html5shiv.html"; ?>
-  <?php include "link.icons.html"; ?>
   <?php include "header.mailchimp-tracking.html"; ?>
 </head>
 <body>

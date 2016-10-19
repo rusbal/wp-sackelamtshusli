@@ -25,3 +25,4 @@
   <meta name="twitter:title" content="Einfamilienhaus in Schaffhausen kaufen in der Breite auf dem Säckelamtshüsli" />
   <meta name="twitter:image" content="http://www.säckelamtshüsli.ch/wp-content/uploads/2016/06/Top_of-Schaffhausen_FB_1200x900px.jpg" />
   <meta name="google-site-verification" content="-B-XrP4YG0wfL9BShKan0p32FYK8n6NXYS6c5YF2xfw" />
+  <link rel="canonical" href="http://www.säckelamtshüsli.ch" />
