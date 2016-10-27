@@ -9,7 +9,7 @@
 
 function langweisen_scripts() {
     $template_dir = get_template_directory_uri();
-    wp_enqueue_style('style', $template_dir . '/css/style.css', array(), '5.4', 'screen');
+    wp_enqueue_style('style', $template_dir . '/css/style.css', array(), '5.5', 'screen');
     wp_enqueue_style('print', $template_dir . '/css/print.css', array(), false, 'print');
     wp_enqueue_style('flexslider', $template_dir . '/js/flexSlider/flexslider.css');
     wp_enqueue_style('fancybox', $template_dir . '/js/fancybox/jquery.fancybox-1.3.1.css');

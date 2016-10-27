@@ -2586,19 +2586,12 @@ div.wpcf7-spam-blocked, div.wpcf7-validation-errors {
 }
 .ray-two-cols > span {
   padding: 2px 0;
+  float: left;
+  display: block;
+  width: calc(50% - 0.5em);
 }
 .ray-two-cols > span > label {
   width: 100%;
-}
-.ray-two-cols > :nth-child(odd) {
-  float: left;
-  display: block;
-  width: 45%;
-}
-.ray-two-cols > :nth-child(even) {
-  float: left;
-  display: block;
-  width: calc(55% - 1em);
 }
 .wpcf7-list-item-label {
   cursor: pointer;
