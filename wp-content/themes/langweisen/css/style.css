@@ -258,9 +258,9 @@ strong {
 	position: relative;
 	float: right;
 	margin: 0 11px;
-	width: 224.36px;
+	width: 175px;
 	height: 175px;
-	background: url(/wp-content/uploads/2016/10/Saeckelamtshuesli_logo.jpg) no-repeat;
+	background: url(/wp-content/uploads/2016/11/Top_of_Schaffhausen_590x590px_300dpi_Seite_Saeckelamtshuesli.jpg) no-repeat;
 	background-size: cover;
 }
 
@@ -2355,10 +2355,10 @@ form p.zweispalten, form div.zweispalten {
 
 @media only screen and (max-width: 935px) {
 	#logo {
-		width: 137.18px;
+		width: 107px;
 		/* height: 84px; */
 		height: 107px;
-		background: url(/wp-content/uploads/2016/10/Saeckelamtshuesli_logo.jpg) no-repeat;
+		background: url(/wp-content/uploads/2016/11/Top_of_Schaffhausen_590x590px_300dpi_Seite_Saeckelamtshuesli.jpg) no-repeat;
 		background-size: cover;
 	}
 	
