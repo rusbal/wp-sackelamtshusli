@@ -8,6 +8,7 @@
   <?php include "header.meta.php"; ?>
   <?php include "html5shiv.html"; ?>
   <?php include "header.mailchimp-tracking.html"; ?>
+<?php include "analyticstracking.php"; ?>
 </head>
 <body>
 <div id="outWrap">
