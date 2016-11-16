@@ -2,7 +2,7 @@
 Contributors: marcqueralt
 Tags: export, attachments
 Requires at least: 3.4
-Tested up to: 4.2.2
+Tested up to: 4.6.1
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -16,7 +16,7 @@ This plugin is a modified version of the export procedure.
 
 Standard export procedure can be recovered unistalling or deactivating this plugin.
 
-More information: http://demomentsomtres.com/english/wordpress-plugins/demomentsomtres-wordpress-export-post-with-images/
+More information: http://demomentsomtres.com/en/wordpress-plugins/demomentsomtres-wordpress-export-post-with-images/
 
 == Frequently Asked Questions ==
 
@@ -25,6 +25,8 @@ More information: http://demomentsomtres.com/english/wordpress-plugins/demoments
 This pluguin ONLY modifies some elements in the internal processes of WordPress Export so no apparent changes will be seen by the users.
 
 Go to Tools > Export and use it.
+
+This problem has been solved in version 2.1.
 
 == Installation ==
 
@@ -35,17 +37,26 @@ Upload the plugin.
 N/A
 
 == Changelog ==
+= 2.1 =
+* WordPress export is hidden
+* DeMomentSomTres Export is shown in Tools menu
+* Calendar and author filtering in Custom Post Types
+= 2.0.2 =
+* Commit mistake
+
+= 2.0 =
+* Date filtering in attachments
 
 = 1.1 =
-
+* Freemius compatibility
 * compatibility updates
-* posts are not allwais parent for a featured image -> thanks to megamurmulis
+* posts are not allways parent for a featured image -> thanks to megamurmulis
 
-=1.0.1=
+= 1.0.1 =
 
 * 3.9.1 Compatibility 
 
-=1.0=
+= 1.0 =
 
 * First release
 
