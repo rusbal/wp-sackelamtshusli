@@ -37,12 +37,18 @@ Upload the plugin.
 N/A
 
 == Changelog ==
-= 2.1 =
+
+= 2.5 =
+* Exclude unused authors from wxr
+
+= 2.4 =
+* Export using limit and offset to allow a paged download
+
+= 2.3 =
+* Allows to filter all custom post types by date, author and status.
 * WordPress export is hidden
 * DeMomentSomTres Export is shown in Tools menu
 * Calendar and author filtering in Custom Post Types
-= 2.0.2 =
-* Commit mistake
 
 = 2.0 =
 * Date filtering in attachments
